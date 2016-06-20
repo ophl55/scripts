@@ -1,0 +1,10 @@
+#!/bin/bash
+
+echo "$1"
+echo "$2"
+
+if [ "$2" == "r" ] 
+	then
+		setwindow "$1" 1200 0 32 100
+fi
+
