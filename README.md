@@ -1,6 +1,12 @@
 # scripts
 some scripts i frequently use
 
+## pdflinkextractor.sh
+extracts links to a list stored in a file and downloads the list
+
+ * param 1: web-site
+ * parem 2: pattern to find the required links
+
 ## setWindow
 opens a program in a new window and sets the window to 1/3 of the screen.
 
